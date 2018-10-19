@@ -12,7 +12,7 @@ https://zhuanlan.zhihu.com/p/44956113
 
 参考的比赛代码：IJCAI-18 阿里妈妈搜索广告转化预测
                2018腾讯广告算法大赛
-	             TalkingData AdTracking Fraud Detection Challenge--kaggle
+	       TalkingData AdTracking Fraud Detection Challenge--kaggle
 备注：阿里妈妈的比赛代码主要参考rank29的代码
       腾讯广告算法大赛参考了liupengsay的代码rank11
       kaggle的比赛稍微浏览，没有借鉴太多的（也可能信息有疏漏，没有太多关注）
