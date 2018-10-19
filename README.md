@@ -4,9 +4,9 @@
 运行环境：python 3.6.5               Anaconda-Jupyter notebook
 
 必要的wheel：
-		`lightgbm`    version:`2.2.0`     
-		               
-		`xgboost`     version:0.8.0
+		
+		lightgbm   version:`2.2.0`     
+		xgboost     version:0.8.0
 
 具体比赛内容：[科大讯飞AI智能营销算法大赛--竞赛信息](http://www.pkbigdata.com/common/cmpt/2018%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E8%90%A5%E9%94%80%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)
 
