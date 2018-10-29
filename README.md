@@ -11,6 +11,10 @@
 
 比赛的baseline: https://zhuanlan.zhihu.com/p/44956113
 
+比赛rank1代码分享：[知乎（鱼遇雨欲语与余)2018科大讯飞AI营销算法大赛总结](https://zhuanlan.zhihu.com/p/47807544)
+
+        关于统计特征的常规操作，如count、ratio、nunique和ctr相关特征，在初赛阶段其中特征count、ctr相关特征升分，而ratio和nunique特征会相应降分。
+
 参考的比赛代码：
 
 	IJCAI-18 阿里妈妈搜索广告转化预测
